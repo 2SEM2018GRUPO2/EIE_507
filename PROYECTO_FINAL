@@ -1,3 +1,7 @@
+//Código de programación, proyecto final Sistemas Embebidos EIE507
+//Profesor: Sebastián Bruna
+//Alumnos: Diego Orrego - Felipe Fernandez
+
 #include <stdio.h>
 #include <wiringPi.h>
 #include <sys/time.h>
